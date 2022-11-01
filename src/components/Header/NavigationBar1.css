@@ -1,0 +1,91 @@
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.main-nav{
+    display: flex;
+    
+    background-color: white;
+}
+.menu-link ul{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16.5px;
+    margin-left: 111px;
+    margin-right: 503px;
+    gap: 34px;
+}
+.menu-link li a{
+   
+    left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* link */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+
+}
+.logo{
+  
+    margin-left: 38px;
+}
+.logo h2{
+    
+   
+width: 116px;
+height: 32px;
+left: 0px;
+top: 13px;
+
+/* h3 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #252B42;
+}
+.social-media-desktop{
+    display: flex;
+    margin-top: 16.5px;
+}
+
+.badge1{
+  color: #23A6F0; 
+  width: 5px;
+height: 16px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+/* font-size: 12px; */
+line-height: 16px;
+/* identical to box height, or 133% */
+
+text-align: center;
+letter-spacing: 0.2px;
+}
